@@ -35,7 +35,7 @@ Separation of Concerns: The logic (JS) is decoupled from the styling (CSS/Bootst
 How to Run
 Clone the repository:
 
-git clone https://github.com/yourusername/todo-list-solid.git
+https://github.com/NurPacqiao/todo.git
 
 Open index.html in your browser.
 
